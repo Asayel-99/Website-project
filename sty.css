@@ -1,0 +1,30 @@
+body {
+    font-family: 'Cairo', sans-serif;
+  }
+  
+  .top-bar {
+    background-color: black;
+    padding: 10px 20px;
+  }
+  
+  .top-bar .logo {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .section-title {
+    color: #0044cc;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .btn-custom {
+    border-radius: 20px;
+    margin: 0 10px;
+  }
+  
+  .feature-icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #0044cc;
+  }
